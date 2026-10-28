@@ -1,0 +1,2 @@
+:root{--bg:#14141c;--deep:#0a0a0e;--surface:#1e1e26;--white:#fff;--muted:#a1a1aa;--accent:#ff7900;--line:#ffffff24;--ease:cubic-bezier(.22,1,.36,1);--radius:2px}
+@theme inline{--color-background:var(--bg);--color-accent:var(--accent);--color-surface:var(--surface);--font-sans:'Manrope Variable',sans-serif}
